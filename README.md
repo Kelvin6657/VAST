@@ -4,7 +4,7 @@
 Research implementation for view-aware joint segmentation and multi-label
 classification in fetal cardiac ultrasound.
 
-**Qiujin Wang · Wenzheng Huang · Jiachen Yuan · Zhenzhong Chen · Silvia Spinato · Netzahualcoyotl Hernandez-Cruz**
+**Qiujin Wang · Wenzheng Huang · Jiachen Yuan · Zhengnong Chen · Silvia Spinato · Netzahualcoyotl Hernandez-Cruz**
 
 [English](README.md) | [简体中文](README_zh-CN.md)  
 [Method](#method) · [Reproduction](#reproduction) · [Repository structure](#repository-structure) · [Citation](#citation)
