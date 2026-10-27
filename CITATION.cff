@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use VAST, please cite the manuscript listed in preferred-citation."
+type: software
+title: "VAST: View-Aware Semi-Supervised Multi-Task Learning Framework for Fetal Cardiac Ultrasound"
+authors:
+  - family-names: "Wang"
+    given-names: "Qiujin"
+  - family-names: "Huang"
+    given-names: "Wenzheng"
+  - family-names: "Yuan"
+    given-names: "Jiachen"
+  - family-names: "Chen"
+    given-names: "Zhenzhong"
+  - family-names: "Spinato"
+    given-names: "Silvia"
+  - family-names: "Hernandez-Cruz"
+    given-names: "Netzahualcoyotl"
+repository-code: "https://github.com/Kelvin6657/VAST"
+preferred-citation:
+  type: unpublished
+  title: "View-Aware Semi-Supervised Multi-Task Learning Framework for Fetal Cardiac Ultrasound"
+  authors:
+    - family-names: "Wang"
+      given-names: "Qiujin"
+    - family-names: "Huang"
+      given-names: "Wenzheng"
+    - family-names: "Yuan"
+      given-names: "Jiachen"
+    - family-names: "Chen"
+      given-names: "Zhenzhong"
+    - family-names: "Spinato"
+      given-names: "Silvia"
+    - family-names: "Hernandez-Cruz"
+      given-names: "Netzahualcoyotl"
+  notes: "Unpublished manuscript; publication details to be updated."
