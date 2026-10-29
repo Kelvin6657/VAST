@@ -41,11 +41,8 @@ The framework has three components:
 
 ## Method
 
-![VAST architecture: labeled supervision and view-aware unlabeled consistency](assets/architecture.png)
+![VAST architecture: labeled supervision and view-aware unlabeled consistency](assets/02_semi_supervised_framework.pdf)
 
-**Figure 1. Manuscript schematic of the VAST framework.** Labeled and unlabeled paths share the model.
-View-conditioned masks define eligible anatomical predictions, weak-view
-predictions supply pseudo-label targets, and encoder LoRA supports adaptation.
 
 ### Shared network
 
