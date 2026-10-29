@@ -41,7 +41,9 @@ The framework has three components:
 
 ## Method
 
-![VAST architecture: labeled supervision and view-aware unlabeled consistency](assets/02_semi_supervised_framework.pdf)
+![VAST architecture: labeled supervision and view-aware unlabeled consistency](assets/1.png)
+
+**Figure 1.** Overview of the proposed semi-supervised multi-path training framework. The model is optimized with three complementary components: (C1) view-conditioned anatomical masking on labeled data, (C2) view-aware semi-supervised consistency learning on unlabeled data, and (C3) parameter-efficient encoder adaptation.
 
 
 ### Shared network
