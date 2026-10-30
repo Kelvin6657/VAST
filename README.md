@@ -28,7 +28,7 @@ view and ineligible in another. VAST combines the acquired-view metadata with
 a shared segmentation/classification network to constrain supervision and
 pseudo-label learning across these views.
 
-The framework has three components:
+The framework has three components （YaLi）:
 
 - **C1 — View-conditioned anatomical masking:** predefined view eligibility
   constrains segmentation logits and classification losses.
